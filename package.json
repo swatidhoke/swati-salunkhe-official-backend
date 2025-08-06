@@ -1,0 +1,16 @@
+{
+  "name": "swati-salunkhe-official-backend",
+  "version": "1.0.0",
+  "description": "This is the backend server for the **Swati Salunkhe** official website. It uses **Express.js** and **MongoDB** to handle APIs, data storage, and backend logic for the [Swati-salunkhe-official-frontend](https://github.com/swatidhoke/Swati-salunkhe-official-frontend) repository.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
